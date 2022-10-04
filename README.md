@@ -1,4 +1,4 @@
-# Chris Contreras Windows Utility
+# Contreras Windows Utility
 
 This code is a simple code used to speedup your Windows 10/11 system. It involves uninstallation of pre-installed apps, limiting Windows updates, disabling unnecessary Windows services, etc.
 
