@@ -1,8 +1,7 @@
-# Chris Titus Tech's Windows Utility
+# Chris Contreras Windows Utility
 
-This Utility is a compilation of windows tasks I perform on each Windows system I use. It is meant to streamline *installs*, debloat with *tweaks*, troubleshoot with *config*, and fix Windows *updates*. I am extremely picky on any contributions to keep this project clean and efficient. 
+This code is a simple code used to speedup your Windows 10/11 system. It involves uninstallation of pre-installed apps, limiting Windows updates, disabling unnecessary Windows services, etc.
 
-![screen-install](screen-install.png)
 
 Launch Command:
 
