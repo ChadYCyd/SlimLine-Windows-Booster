@@ -39,8 +39,8 @@ Function Get-FormVariables {
 
    
     write-host ""
-    write-host "====Chris Contreras Tech====="
-    write-host "=====Windows Toolbox====="
+    write-host "====SlimLineh====="
+    write-host "=====Windows Booster====="
                            
  
     #====DEBUG GUI Elements====
