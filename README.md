@@ -1,4 +1,4 @@
-# Contreras Windows Utility
+# SlimLine
 
 This code is a simple code used to speedup your Windows 10/11 system. It involves uninstallation of pre-installed apps, limiting Windows updates, disabling unnecessary Windows services, etc.
 
