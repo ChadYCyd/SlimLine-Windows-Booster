@@ -6,7 +6,7 @@ This Utility is a compilation of windows tasks I perform on each Windows system 
 Launch Command:
 
 ```
-iwr -useb https://tinyurl.com/SlimLineWindowsBooster | iex
+https://tinyurl.com/SlimLineWindowsBooster2 | iex
 ```
 
 ## Overview
